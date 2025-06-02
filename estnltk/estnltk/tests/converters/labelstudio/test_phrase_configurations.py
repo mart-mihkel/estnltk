@@ -1,5 +1,6 @@
 import pytest
 
+from estnltk.converters.label_studio.labelling_configurations import DiffTaggingConfiguration
 from estnltk.converters.label_studio.labelling_configurations import PhraseTaggingConfiguration
 from estnltk.converters.label_studio.labelling_configurations import PhraseClassificationConfiguration
 
