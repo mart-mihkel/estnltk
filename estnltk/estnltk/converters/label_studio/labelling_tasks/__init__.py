@@ -1,2 +1,3 @@
+from estnltk.converters.label_studio.labelling_tasks.diff_tagging_task import DiffTaggingTask
 from estnltk.converters.label_studio.labelling_tasks.phrase_tagging_task import PhraseTaggingTask
 from estnltk.converters.label_studio.labelling_tasks.phrase_classification_task import PhraseClassificationTask
